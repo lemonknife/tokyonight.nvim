@@ -106,7 +106,7 @@ title_error = { fg = "${red}" }
 [help]
 on      = { fg = "${green}" }
 run     = { fg = "${magenta}" }
-hovered = { bg = "${bg_visual}" }
+hovered = { bg = "${bg_highlight}" }
 footer  = { fg = "${fg}", bg = "${bg}" }
 
 [filetype]

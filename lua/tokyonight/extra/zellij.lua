@@ -13,7 +13,7 @@ function M.generate(colors)
 themes {
     ${_name} {
         fg "${fg}"
-        bg "${bg_highlight}"
+        bg "${bg_visual}"
         black "${black}"
         red "${red}"
         green "${green}"
